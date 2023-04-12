@@ -66,7 +66,7 @@ Program #03
 //     }
     
 //     let newObj = {};
-//     for (const prop in obj) {
+//     for (let prop in obj) {
 //       newObj[prop] = JSON.parse(localStorage.getItem(prop));
 //     }
 //     return newObj;
