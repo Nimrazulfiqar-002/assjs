@@ -18,6 +18,24 @@
 // }
 // console.log(myarr(0));
 
+Program #03
+// function Paragraph(text) {
+//  let newParagraph =document.createElement("p");
+  //newParagraph.textContent = text;
+  //document.body.appendChild(newParagraph);
+}
+// Paragraph("This is a new paragraph!");
+
+// Program #04
+// function addItem(text) {
+  let Item = document.createElement("li");
+  // Item.textContent = text;
+ // let list = document.querySelector("ul");
+  list.appendChild(Item);
+}
+
+// addItem("New list item!");
+
 
 // // program#06
 // let prevStudents=localStorage.getItem("student");
